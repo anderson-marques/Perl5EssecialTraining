@@ -3,6 +3,7 @@
 
 use 5.18.0;
 use warnings;
+use strict;
 
 # use a scalar variable for the name of the file
 my $filename = "linesfile.txt";  
